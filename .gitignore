@@ -1,0 +1,10 @@
+# JANGAN pernah unggah backend ke repository publik — berisi token dan ID Spreadsheet
+Code.gs
+*.gs
+
+# berkas data asli tidak boleh masuk repository
+BNBA-*.csv
+BNBA-*.xlsx
+Rekap-*.csv
+Rincian-*.xlsx
+data/
